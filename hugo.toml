@@ -16,7 +16,7 @@ canonifyURLs = "true"
 # publishDir = "public"
 
 # Remote
-baseURL = "https://ctrl-a-del.github.io/"
+baseURL = "https://ctrl-a-del.github.io/mystory"
 publishDir = "public"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
