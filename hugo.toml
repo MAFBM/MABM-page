@@ -9,14 +9,15 @@ theme = "hugo-story"
 ## -----------------------------------------------
 
 relativeURLs = "true"
-#canonifyURLs = "true"
+canonifyURLs = "true"
 
 # Local
 # baseURL = "/"
-publishDir = "public"
+# publishDir = "public"
 
 # Remote
 baseURL = "https://ctrl-a-del.github.io/mystory/"
+publishDir = "public"
 #publishDir = "//centos/sites/hugodev/hugostory/"
 
 
