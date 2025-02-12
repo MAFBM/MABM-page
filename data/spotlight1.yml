@@ -1,10 +1,13 @@
 ####################### Spotlight #########################
-style: "style1 color5 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 color2 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
-title : "Spotlight"
+menu: "main"
+title : "Zwischen Kita und Kommune - das bin ich"
 content: |
-  This is a <strong>Spotlight</strong> element, and it's generally used &ndash; as its name implies &ndash; to spotlight a particular feature, subject, or pretty much whatever. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
+  <p>Ich wohne mit meinem Mann, unseren Töchtern (4 und 1) und unserem Hund in Naphausen. Ich bin 30 Jahre alt, studierte Ökotrophologin und arbeite als IT-Projektmanagerin. Nach einigen Jahren in der Lebensmittelbranche kümmere ich mich heute um große Kundenprojekte in der Entsorgungsbranche.  </p>
+
+  <p>Ja, ich bin jung und neu in der Politik. Das heißt auch: Ich bin unverbraucht, ohne Grenzen im Kopf. Mit 30 bringe ich die Energie, das Engagement und den Mut mit, um Dinge positiv zu verändern und unsere Gemeinde in herausfordernden Zeiten gut aufzustellen. </p>
 button: 
-  label: "Learn More"
-  link: "#"
+  label: "Weiter"
+  link: "#second"
 image: "images/spotlight01.jpg"

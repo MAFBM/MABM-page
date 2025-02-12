@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 color1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "fifth"
+menu: "main"
+title : "Weil Zukunft mit Familie beginnt - heute an übermorgen denken"
+content: |
+  <p>Schwalmtal braucht eine klare Strategie für Kinder, Jugendliche und Familien. Unsere Gemeinde soll ein Ort sein, in dem junge Menschen gerne aufwachsen und Eltern und Großeltern sich gut aufgehoben fühlen. Dazu gehören sichere Schulwege ebenso wie gut ausgestattete Schulen, schattige Schulhöfe, ein attraktives Freizeitangebot für alle Generationen und ja – in einer familienfreundlichen Gemeinde gibt’s einen Kinderarzt. Dafür setze ich mich ein.</p>
+button: 
+  label: "Weiter"
+  link: "#sixth"
+image: "images/spotlight02.jpg"

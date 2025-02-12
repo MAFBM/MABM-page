@@ -1,12 +1,13 @@
 ####################### Banner #########################
-style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Hugo Story"
+style: "style1 color1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+menus: main
+title : "MIRIAM AUNER"
 subtitle: |
-  Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
+  Vielfältig wie ihr - eine von euch 
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  Liebe Schwalmtalerinnen, liebe Schwalmtaler, am 14. September 2025 möchte ich eure neue Bürgermeisterin werden. Denn Schwalmtal kann mehr, als wir derzeit erleben. Ich will nicht länger nur zuschauen, sondern anpacken -  mit Mut, neuen Ideen und gemeinsam mit euch. 
 button:
-  label : "Get Started"
+  label : "Weiter"
   link : "#first"
 image : "images/banner.jpg"
 

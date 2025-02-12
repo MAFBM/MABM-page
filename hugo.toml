@@ -34,4 +34,7 @@ disableKinds = ["taxonomy", "section"]
 
 [Params]
 
+
+sectionPagesMenu = 'main'
+
 [Params.social]
