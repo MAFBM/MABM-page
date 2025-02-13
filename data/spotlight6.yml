@@ -1,11 +1,14 @@
 ####################### Spotlight #########################
-style: "style1 color2 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 color2 font-color-1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "sixth"
 menu: "main"
-title : "Wachstum und Wohlstand aktiv entwickeln"
+title : 
+  text: "Wachstum und Wohlstand aktiv entwickeln"
+  style: "font-color-1"
 content: |
   <p>Schwalmtal braucht eine wirtschaftliche Entwicklung mit Mut und Weitblick. Ich stehe für proaktives Handeln statt Abwarten – sei es bei der Förderung lokaler Unternehmen, innovativer Projekte oder neuer Wirtschaftsmodelle wie einer Bürgerenergiegenossenschaft. Wir müssen kluge Chancen nutzen, statt uns von Risiken lähmen zu lassen.</p>
 button: 
   label: "Weiter"
   link: "#seventh"
+  style: "inverted"
 image: "images/spotlight03.jpg"

@@ -1,12 +1,13 @@
 ####################### Spotlight #########################
 style: "style1 color4 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "third"
-title : "Mehr Tun, weniger Tamtam – Schwalmtal braucht Tatkraft"
+title:
+  text: "Mehr Tun, weniger Tamtam – Schwalmtal braucht Tatkraft"
 content: |
   <p>Pläne, Konzepte, Arbeitskreise – und nichts passiert. Ortsentwicklung, Nahmobilität, Klimaschutz: Seit Jahren in der Diskussion, aber noch kaum etwas wurde umgesetzt. 
   <p>Als Bürgermeisterin arbeite ich anders: agil, pragmatisch, lösungsorientiert. Gemeinsam mit euch und unserer Verwaltung will ich endlich ins Handeln kommen – Schritt für Schritt, mit Mut und Entschlossenheit. Lasst uns anfangen. Jetzt.</p>
 
-button: 
+button:
   label: "Weiter"
   link: "#forth"
 image: "images/spotlight03.jpg"

@@ -2,13 +2,14 @@
 style: "style1 color3 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "seventh"
 menu: "main"
-title : "Klimaschutz ist Menschenschutz"
+title:
+  text: "Klimaschutz ist Menschenschutz"
 content: |
   <p>Für mich ist Klimaschutz kein gesondertes Thema. Er ist vielmehr die Basis und somit Teil jeder Entscheidung. Ob Verkehrswende, Ortsentwicklung oder soziale Gerechtigkeit: Es geht immer um uns. Um ein sicheres, lebenswertes Zuhause für uns alle. Dafür setze ich mich ein. Dafür bitte ich am 14.09. um euer Vertrauen und euren Mut, mit mir neue Wege zu gehen. </p>
   <p>Ich freue mich auf ein persönliches Kennenlernen. </p>
   <p>Eure/Ihre </p>
   <p>Miriam Auner</p>
-# button: 
+# button:
 #   label: "Weiter"
 #   link: "#seventh"
 image: "images/spotlight01.jpg"
