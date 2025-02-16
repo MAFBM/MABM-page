@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 color3 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 color1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "second"
 title:
   text: "Mitgestalten möglich machen – weil uns Teamwork weiter bringt"

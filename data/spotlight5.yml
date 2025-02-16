@@ -1,5 +1,5 @@
 ####################### Spotlight #########################
-style: "style1 color1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 color3 orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "fifth"
 menu: "main"
 title : 
@@ -9,4 +9,4 @@ content: |
 button: 
   label: "Weiter"
   link: "#sixth"
-image: "images/miriam1.jpg"
+image: "images/miriam4.jpg"

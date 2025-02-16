@@ -1,14 +1,12 @@
 ####################### Spotlight #########################
-style: "style1 color5 font-color-1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 color4 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "forth"
 menu: "main"
 title:
   text: "Ganzheitlich denken – klug planen"
-  style: "font-color-1"
 content: |
   <p>Große Bauprojekte wie ein Feuerwehrgerätehaus sind mehr als nur ein einzelnes Gebäude. Sie beeinflussen ihre Umgebung – von der Verkehrsführung bis zur Infrastruktur. Ich will über den Tellerrand hinaus planen und sicherstellen, dass wir alle Vorhaben von Anfang an ganzheitlich denken: nachhaltiger, effizienter und mit Blick auf die Zukunft. Das gilt auch für den Schutz vor Extremwetter. Schwalmtal braucht jetzt Strategien und Maßnahmen gegen Starkregen und Hitze – nicht erst, wenn es zu spät ist.</p>
 button:
   label: "Weiter"
   link: "#fifth"
-  style: "inverted"
 image: "images/miriam5.jpg"
