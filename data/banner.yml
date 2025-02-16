@@ -1,5 +1,5 @@
 ####################### Banner #########################
-style: "style1 color1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+style: "style1 color1 orient-left content-align-left fullscreen onload-image-fade-in onload-content-fade-right"
 menus: main
 title: "MIRIAM AUNER"
 subtitle: |
@@ -9,4 +9,4 @@ content: |
 button:
   label: "Weiter"
   link: "#first"
-image: "images/banner.jpg"
+image: "images/miriam5.jpg"
