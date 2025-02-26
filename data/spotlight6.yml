@@ -11,4 +11,5 @@ button:
   label: "Weiter"
   link: "#seventh"
   style: "inverted"
-image: "images/miriam6.jpg"
+image: 
+  src: "images/miriam6.jpg"

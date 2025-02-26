@@ -12,4 +12,5 @@ button:
   label: "Weiter"
   link: "#forth"
   style: "inverted"
-image: "images/miriam2.jpg"
+image: 
+  src: "images/miriam2.jpg"

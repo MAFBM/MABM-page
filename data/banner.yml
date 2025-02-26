@@ -9,4 +9,6 @@ content: |
 button:
   label: "Weiter"
   link: "#first"
-image: "images/miriam1.jpg"
+image:
+  src: "images/m2.jpg"
+  styleOverride: "object-position: 100% 25%"

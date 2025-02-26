@@ -12,4 +12,5 @@ content: |
 # button:
 #   label: "Weiter"
 #   link: "#seventh"
-image: "images/miriam7.jpg"
+image: 
+  src: "images/miriam7.jpg"

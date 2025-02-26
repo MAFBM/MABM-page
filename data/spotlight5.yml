@@ -9,4 +9,5 @@ content: |
 button: 
   label: "Weiter"
   link: "#sixth"
-image: "images/miriam4.jpg"
+image: 
+  src: "images/miriam4.jpg"

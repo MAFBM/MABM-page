@@ -8,7 +8,9 @@
             <li><a href="{{ .link }}" class="button large wide smooth-scroll-middle">{{ .label }}</a></li>
         </ul>{{ end }}
     </div>
-    {{ with .image }}<div class="image">
-        <img src="{{.}}" alt="Hugo Story" />
-    </div>{{end}}
+    {{ with .image }}
+        <div class="image">
+                <img src="{{ .src }}" alt="with override" style="{{ .styleOverride }};"/>
+        </div>
+    {{end}}
 </section>
