@@ -6,7 +6,7 @@
     </div>
 
     <!-- Gallery -->
-    <div class="gallery {{ .style }}">
+    <div class="gallery {{ .style }}" style="max-height: 240px;">
         {{ range .pictures }}
             {{ partial "picture" . }}
         {{ end }}
