@@ -1,8 +1,9 @@
 ####################### Spotlight #########################
-style: "style1 color1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 color2 font-color-1 orient-left content-align-left image-position-center onscroll-image-fade-in"
 id: "second"
 title:
   text: "Mitgestalten möglich machen – weil uns Teamwork weiter bringt"
+  style: "font-color-1"
 content: |
   <p>Eine Gemeinde wird lebendiger, je mehr Menschen sie mitgestalten. Doch dafür braucht man Transparenz: Alle Fakten auf dem Tisch, keine Entscheidungen hinter verschlossenen Türen, Informationen leicht zugänglich. Politik geht doch uns alle an! </p>
   <p>Es gibt das Ratsinformationssystem? Aktuell eine Zumutung. Ich will, dass jede*r sich schnell und einfach informieren kann – barrierefrei und verständlich. 
@@ -10,5 +11,6 @@ content: |
 button:
   label: "Weiter"
   link: "#third"
+  style: "inverted"
 image: 
   src: "images/miriam3.jpg"

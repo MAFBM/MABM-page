@@ -12,4 +12,5 @@ button:
   link: "#seventh"
   style: "inverted"
 image: 
-  src: "images/miriam6.jpg"
+  src: "images/m3.jpg"
+  styleOverride: "object-position: 100% 18%"

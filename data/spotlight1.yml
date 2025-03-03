@@ -1,10 +1,9 @@
 ####################### Spotlight #########################
-style: "style1 color2 font-color-1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+style: "style1 color4  orient-right content-align-left image-position-center onscroll-image-fade-in"
 id: "first"
 menu: "main"
 title:
   text: "Zwischen Kita und Kommune - das bin ich"
-  style: "font-color-1"
 content: |
   <p>Ich wohne mit meinem Mann, unseren Töchtern (4 und 1) und unserem Hund in Schwalmtal. Ich bin 30 Jahre alt, studierte Ökotrophologin und arbeite als IT-Projektmanagerin. Nach einigen Jahren in der Lebensmittelbranche kümmere ich mich heute um große Kundenprojekte in der Entsorgungsbranche.  </p>
 
@@ -12,6 +11,5 @@ content: |
 button:
   label: "Weiter"
   link: "#second"
-  style: "inverted"
 image: 
-  src: "images/m12.jpg"
+  src: "images/m10.jpg"
