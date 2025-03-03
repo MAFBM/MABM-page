@@ -13,3 +13,4 @@ button:
   link: "#second"
 image: 
   src: "images/m10.jpg"
+  styleOverride: "object-position: 31% 100%"

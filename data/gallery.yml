@@ -4,27 +4,32 @@ style: "style2 medium lightbox onscroll-fade-in"
 content: |
   Diese Galerie zeigt Miriam Auner, Bürgermeisterkandidatin für Schwalmtal, bei verschiedenen Anlässen. Als engagierte Politikerin von Bündnis 90/Die Grünen in Schwalmtal setzt sie sich mit Herz und Verstand für die Menschen vor Ort und für eine vielfältige Gesellschaft ein.
 pictures:
-  - title: ""
-    image: "images/gallery/fulls/m0.jpg"
-    thumb: "images/gallery/thumbs/m0.jpg"
-    button: "Vollbild"
-
-  - title: ""
-    image: "images/gallery/fulls/m1.jpg"
-    thumb: "images/gallery/thumbs/m1.jpg"
-    button: "Vollbild"
+  # - title: ""
+  #   image: "images/gallery/fulls/m0.jpg"
+  #   thumb: "images/gallery/fulls/m0.jpg"
+  #   button: "Vollbild"
 
   - title: ""
     image: "images/gallery/fulls/m5.jpg"
-    thumb: "images/gallery/thumbs/m2.jpg"
+    thumb: "images/gallery/fulls/m2.jpg"
     button: "Vollbild"
 
   - title: ""
     image: "images/gallery/fulls/m3.jpg"
-    thumb: "images/gallery/thumbs/m3.jpg"
+    thumb: "images/gallery/fulls/m3.jpg"
     button: "Vollbild"
 
   - title: ""
+    image: "images/gallery/fulls/m1.jpg"
+    thumb: "images/gallery/fulls/m1.jpg"
+    button: "Vollbild"   
+
+  - title: ""
     image: "images/gallery/fulls/m4.jpg"
-    thumb: "images/gallery/thumbs/m4.jpg"
+    thumb: "images/gallery/fulls/m4.jpg"
+    button: "Vollbild"
+
+  - title: ""
+    image: "images/gallery/fulls/m5.jpg"
+    thumb: "images/gallery/fulls/m5.jpg"
     button: "Vollbild"

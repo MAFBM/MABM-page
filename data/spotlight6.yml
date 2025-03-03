@@ -13,4 +13,4 @@ button:
   style: "inverted"
 image: 
   src: "images/m3.jpg"
-  styleOverride: "object-position: 100% 18%"
+  styleOverride: "object-position: 45% 18%"

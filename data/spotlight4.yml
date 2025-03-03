@@ -11,3 +11,4 @@ button:
   link: "#fifth"
 image: 
   src: "images/m12.jpg"
+  styleOverride: "object-position: 84% 22%"
