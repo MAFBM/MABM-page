@@ -1,14 +1,22 @@
 <!-- Gallery -->
-<section class="wrapper style1 align-center" {{ with .id }} id="{{ . }}"{{ end }}>
-    <div class="inner">
-        <h2>{{ .title }}</h2>
-        <p>{{ .content | safeHTML }}</p>
-    </div>
+<section
+  class="wrapper style1 align-center"
+  {{
+  with
+  .id
+  }}
+  id="{{ . }}"
+  {{
+  end
+  }}
+>
+  <div class="inner">
+    <h2>{{ .title }}</h2>
+    <p>{{ .content | safeHTML }}</p>
+  </div>
 
-    <!-- Gallery -->
-    <div class="gallery {{ .style }}" style="max-height: 240px;">
-        {{ range .pictures }}
-            {{ partial "picture" . }}
-        {{ end }}
-    </div>
+  <!-- Gallery -->
+  <div class="gallery {{ .style }}" style="max-height: 280px">
+    {{ range .pictures }} {{ partial "picture" . }} {{ end }}
+  </div>
 </section>
