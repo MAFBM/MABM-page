@@ -32,7 +32,7 @@ disableKinds = ["taxonomy", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "Miriam Auner - Vielfältig wie ihr"
+  description = "Miriam Auner - Miteinander mehr erreichen"
   logo = "images/m4.jpg"
   favicon = true
 
