@@ -15,6 +15,16 @@
 .impress-wrapper {
   color: black; }
 
+p {
+  font-size: 1.125rem; }
+
+.regulation {
+  display: none;
+  justify-content: center;
+  margin: 2rem; }
+  .regulation .wrapper {
+    max-width: 1200px; }
+
 /*
 	Hugo Story by CaressOfSteel
 	A (modular, highly tweakable) responsive one-page theme for Hugo.
@@ -1971,6 +1981,9 @@ table.uniform tbody tr:nth-child(2n + 1) {
 	This Hugo theme is licensed under the Creative Commons Attribution 3.0 License.
 */
 /* Banner (transitions) */
+.banner p {
+  font-size: 1.125rem; }
+
 .banner.onload-content-fade-up .content {
   -moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
   -webkit-transition: opacity 0.75s ease-in-out, -webkit-transform 0.75s ease-in-out;
