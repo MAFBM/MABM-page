@@ -13,23 +13,28 @@ pictures:
     image: "images/gallery/fulls/m5.jpg"
     thumb: "images/gallery/fulls/m2.jpg"
     button: "Vollbild"
+    alt: "Die Bürgermeisterkandidatin trägt eine grüne Mütze mit der Aufschrift 'EUROPAFREUND*IN' und eine graue Jacke. Sie lächelt und befindet sich inmitten einer Gruppe von Menschen, die ebenfalls grüne Mützen tragen."
 
   - title: ""
     image: "images/gallery/fulls/m3.jpg"
     thumb: "images/gallery/fulls/m3.jpg"
     button: "Vollbild"
+    alt: "Die Bürgermeisterkandidatin bei einem Küchentischgepräch im Freien.Sie befindet sich in einer Gruppe von Menschen."
 
   - title: ""
     image: "images/gallery/fulls/m1.jpg"
     thumb: "images/gallery/fulls/m1.jpg"
     button: "Vollbild"   
+    alt: "Die Bürgermeisterkandidatin trägt eine orangefarbene Strickmütze und einem bunten Schal. sie hat ein Kind mit grüner Mütze auf dem Arm."
 
   - title: ""
     image: "images/gallery/fulls/m4.jpg"
     thumb: "images/gallery/fulls/m4.jpg"
     button: "Vollbild"
+    alt: "Bürgermeisterkandidatin im Gespräch mit Bürgern auf einer öffentlichen Straße, umgeben von Gebäuden und Schildern."
 
   - title: ""
     image: "images/gallery/fulls/m5.jpg"
     thumb: "images/gallery/fulls/m5.jpg"
     button: "Vollbild"
+    alt: "Bürgermeisterkandidatin im Gespräch mit Bürgern auf einer öffentlichen Straße, umgeben von Bäumen und Schildern"
