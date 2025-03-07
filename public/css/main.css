@@ -31,6 +31,11 @@ p {
 .paragraph {
   font-size: 1.25rem; }
 
+.inverted {
+  color: white; }
+  .inverted:hover {
+    color: black; }
+
 .regulation {
   display: none;
   justify-content: center;
