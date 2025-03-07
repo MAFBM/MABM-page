@@ -26,7 +26,10 @@
   color: black; }
 
 p {
-  font-size: 1.125rem; }
+  font-size: 1.25rem; }
+
+.paragraph {
+  font-size: 1.25rem; }
 
 .regulation {
   display: none;
@@ -1992,7 +1995,7 @@ table.uniform tbody tr:nth-child(2n + 1) {
 */
 /* Banner (transitions) */
 .banner p {
-  font-size: 1.125rem; }
+  font-size: 1.25rem; }
 
 .banner.onload-content-fade-up .content {
   -moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
@@ -3013,7 +3016,7 @@ body.is-preload .banner.onload-image-fade-in .image img {
 */
 /* Spotlight (transitions) */
 .spotlight p {
-  font-size: 1.125rem; }
+  font-size: 1.25rem; }
 
 .spotlight.onload-content-fade-up .content {
   -moz-transition: opacity 0.75s ease-in-out, -moz-transform 0.75s ease-in-out;
