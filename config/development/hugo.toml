@@ -33,8 +33,8 @@ disableKinds = ["taxonomy", "section"]
 
 [Params]
   description = "Miriam Auner - Miteinander mehr erreichen"
-  logo = "images/m4.jpg"
-  favicon = true
+  logo = "images/favicon.jpeg"
+  favicon = false
 
 [Params.social]
   github = "https://github.com/caressofsteel/"
