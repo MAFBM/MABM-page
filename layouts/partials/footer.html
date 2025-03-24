@@ -22,7 +22,15 @@
           ><span class="label">Facebook</span></a
         >
       </li>
-      {{end}} {{ with .Site.Params.social.compass }}
+      {{end}} 
+      {{ with .Site.Params.social.blog }}
+      <li>
+        <a target="_blank" href="{{.}}" class="fav icon style2 fa-blog"
+          ><span class="label">Blog</span></a
+        >
+      </li>
+      {{end}}
+      {{ with .Site.Params.social.compass }}
       <li>
         <a target="_blank" href="{{.}}" class="fav icon style2 fa-compass"
           ><span class="label">Gemeindekompass Schwalmtal</span></a

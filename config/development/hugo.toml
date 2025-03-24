@@ -46,6 +46,7 @@ disableKinds = ["taxonomy", "section"]
   compass = "https://gemeindekompass-schwalmtal.de"
   linkedin = "https://linkedin.com"
   telegram = "https://telegram.org"
+  blog = "https://miriam-auner.blog"
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
