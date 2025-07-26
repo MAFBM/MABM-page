@@ -10,6 +10,5 @@ button:
   label: "Weiter"
   link: "#first"
 image:
-  src: "images/m2.jpg"
-  styleOverride: "object-position: 100% 25%"
-  alt: "Die Bürgermeisterkandidatin lehnt souverän an einer Glasfassade mit Jalousien, ihr Lächeln strahlt Ruhe und Verlässlichkeit aus."
+  src: "images/DSC02512-DeNoise.jpg"
+  alt: "Die Bürgermeisterkandidatin trägt knalliges pink und steht mit verschränkten Armen vor einer Graffitiwand. Ihr Lächeln strahlt Ruhe und Verlässlichkeit aus."
