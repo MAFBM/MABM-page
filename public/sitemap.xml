@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/datenschutzerklaerung/</loc>
+    <loc>//localhost:58247/datenschutzerklaerung/</loc>
   </url><url>
-    <loc>//localhost:1313/impressum/</loc>
+    <loc>//localhost:58247/impressum/</loc>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>//localhost:58247/</loc>
   </url>
 </urlset>
