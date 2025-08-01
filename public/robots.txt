@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://miriam-auner.de/sitemap.xml
