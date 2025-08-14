@@ -1657,8 +1657,10 @@ input[type="radio"]:focus + label:before {
     line-height: inherit; }
   .icon.solid:before {
     font-weight: 900; }
-  .icon.brands:before {
-    font-family: 'Font Awesome 5 Brands'; }
+  .icon.brands {
+    margin-right: 0.5em; }
+    .icon.brands:before {
+      font-family: 'Font Awesome 5 Brands'; }
   .icon.style2:before {
     border-radius: 2.75em;
     display: inline-block;
