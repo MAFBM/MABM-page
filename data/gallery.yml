@@ -10,7 +10,32 @@ pictures:
   #   button: "Vollbild"
 
   - title: ""
-    image: "images/gallery/fulls/m5.jpg"
+    image: "images/gallery/fulls/m21.jpg"
+    thumb: "images/gallery/fulls/m21.jpg"
+    button: "Vollbild"
+    alt: "Die Bürgermeisterkandidatin auf dem Christoper-Street-Day in Lobberich mit solidarischem Make-Up in Regenbogenfarben. Daneben Jan Vander mit Regenbogenherz auf der Wange."
+    styleOverride: "object-position: 0% 75%"
+
+  - title: ""
+    image: "images/gallery/fulls/m22.jpg"
+    thumb: "images/gallery/fulls/m22.jpg"
+    button: "Vollbild"
+    alt: "Die Bürgermeisterkandidatin steht lächelnd vor einer Hauswand, gemeinsam mit Andreas Hermanns."
+
+  - title: ""
+    image: "images/gallery/fulls/m3.jpg"
+    thumb: "images/gallery/fulls/m23.jpg"
+    button: "Vollbild"
+    alt: "Die Bürgermeisterkandidatin steht beim dem OSC-Lauf. Im Hintergrund ist die Laufbahn mit vielen Kindern zu sehen."
+
+  - title: ""
+    image: "images/gallery/fulls/m24.jpg"
+    thumb: "images/gallery/fulls/m24.jpg"
+    button: "Vollbild"
+    alt: "Die Bürgermeisterkandidatin beim Feuerwehrgerätehaus in Alpen gemeinsam mit Dietmar Helmreich-Schwinge."
+
+  - title: ""
+    image: "images/gallery/fulls/m2.jpg"
     thumb: "images/gallery/fulls/m2.jpg"
     button: "Vollbild"
     alt: "Die Bürgermeisterkandidatin trägt eine grüne Mütze mit der Aufschrift 'EUROPAFREUND*IN' und eine graue Jacke. Sie lächelt und befindet sich inmitten einer Gruppe von Menschen, die ebenfalls grüne Mützen tragen."

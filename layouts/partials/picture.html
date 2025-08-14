@@ -1,12 +1,16 @@
 <article>
-    <a href="{{ .image }}" class="image">
-        <img src="{{ .thumb }}" alt="{{ .alt }}" />
-    </a>
-    <div class="caption">
-        <h3>{{ .title }}</h3>
-        <p>{{ .content }}</p>
-        <ul class="actions fixed">
-            <li><span class="button small">{{ .button }}</span></li>
-        </ul>
-    </div>
+  <a href="{{ .image }}" class="image">
+    <img
+      src="{{ .thumb }}"
+      style="object-fit: cover; width: 420px; height: 300px; {{ .styleOverride }}"
+      alt="{{ .alt }}"
+    />
+  </a>
+  <div class="caption">
+    <h3>{{ .title }}</h3>
+    <p>{{ .content }}</p>
+    <ul class="actions fixed">
+      <li><span class="button small">{{ .button }}</span></li>
+    </ul>
+  </div>
 </article>
